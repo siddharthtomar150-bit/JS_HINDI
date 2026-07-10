@@ -5,7 +5,7 @@ let hello="siddharth";
 //name (string data type)
 console.log(hello);
 
-//javaScript have two categories 
+//javaScript has two categories 
 //PRIMITIVE DATA TYPE(7)=[SINGLE VALUE STORE]
 //1.STRING
 //2.NUMBER
